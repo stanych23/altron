@@ -1,2 +1,2 @@
 # altron
-Stan main repo for testing and learning
+Stan's repo for testing and learning
